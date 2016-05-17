@@ -19,7 +19,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObdLibUWP", "ODB2open\OBDLi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObdShare", "ODB2open\OBDLibrary\ObdShare\ObdShare.csproj", "{7A88DA9B-A374-4DE2-B46E-ED2C45434508}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ODB2open.UW", "ODB2open.UW\ODB2open.UW.csproj", "{DFDCE918-93B5-4FF5-B7D0-2F1C4BAAE4EB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ODB2open.UW", "ODB2open\ODB2open.UW\ODB2open.UW.csproj", "{DFDCE918-93B5-4FF5-B7D0-2F1C4BAAE4EB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
